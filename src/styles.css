@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800');
+
+/* 폰트 이름은 'Nanum Gothic' 입니다. 공백이 있으므로 주의해 주세요. */
+/* font-family : 'Nanum Gothic'; 으로 지정해 줍니다. */
+
+/* 기본 나눔고딕 */
+body {
+  font-family: 'Nanum Gothic';
+}
